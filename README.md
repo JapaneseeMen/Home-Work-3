@@ -5,8 +5,10 @@ _Я учусь в Нетологии для того чтобы:_
 + ### *Прийти к успеху*
 ![Прийти][def2]
 
+
 + ### *Радовать Своих бликих*
-  
+
+
 ![Радовать своих близких][def]
 
 [def]: https://sun9-23.userapi.com/impg/bfAAzxhhutyrax8aApWQhLadHZe7960DCGQI2Q/bOd0Nnt7cX0.jpg?size=810x1080&quality=95&sign=07e7aaed6d521d76050c4f0c7f73e0a4&type=album
